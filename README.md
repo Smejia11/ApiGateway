@@ -1,8 +1,4 @@
 # ApiGateway
-
-[![Version](https://img.shields.io/badge/version-0.0.0-blue.svg)](https://devops.sistran.com/Colombia/ESTADO/_git/CO_SDE_PROY_ICNN_LogApi)
-[![License](https://img.shields.io/badge/license-Private-red.svg)](https://www.sistran.com/latam/es/inicio/)
-
 This is the official repository for ApiGateway.
 
 ## Installation
@@ -33,7 +29,7 @@ npm run dev
 ```
 ## License
 
-This project is licensed under the Private License. For more details, see the [LICENSE](LICENSE) file.
+MTI
 
 ---
 
